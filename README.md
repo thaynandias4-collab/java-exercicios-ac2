@@ -6,6 +6,7 @@ Lista de exercícios desenvolvida durante a disciplina de Programação em Java 
 
 - Java
 - Eclipse
+- VS Code
 
 ## Objetivo
 
